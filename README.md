@@ -2,12 +2,6 @@
 
 `https://github.com/chengyoujie/TexturePackerEgretPlug`
 
-
-
-
-以egret提供的文档，重新修改了脚本。使其符合最新的egret-spritesheet。
-
-
 ==========
 
 目前egret不支持flash pro生成的spritesheet
