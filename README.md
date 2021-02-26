@@ -1,15 +1,11 @@
-## TexturePacker 打包Egret(白鹭引擎）格式的图集和图片字体的补丁
-
+## TexturePacker 导出  Egret(白鹭引擎）格式的图集(`egretSheet`)和图片字体(`egretFont`)补丁
 `https://github.com/chengyoujie/TexturePackerEgretPlug`
 
-==========
+---
 
-目前egret不支持flash pro生成的spritesheet
+### 使用方法
 
-我使用TexturePacker，制作一个符合egret的spritesheet格式的TexturePacker的插件。
+1. 将`egretFont`和`egretSheet` 文件夹拷贝到 TexturePacker安装目录下的`exporters`文件夹内
 
-把该目录放在{TexturePacker}/bin/exporters 下。
+2. 重新打开TexturePacker 即可在 DataFormat中找到`egretFont`和`egretSheet`
 
-运行TexturePacker软件，在data format里选择egret-spritesheet。
-
-就可以导出，egret支持的spritesheet格式。
